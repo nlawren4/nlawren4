@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @nlawren4
+- 👀 I’m interested in cybersecurity and ethical hacking ...
+- 🌱 I’m currently learning information security and ethical hacking in order to achieve the Security+ and later CISSP cert ...
+- 💞️ I’m looking to collaborate on any cybersecurity projects in this field...
+- 📫 How to reach me ----> ...
+- Email: nicholaslawrence101@gmail.com 
+- LinkedIn: www.linkedin.com/in/nicholas-lawrence-2036771a1
+
+
+<!---
+nlawren4/nlawren4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
